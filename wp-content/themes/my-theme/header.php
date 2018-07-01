@@ -17,13 +17,13 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="http://www.settenanielmas.it/wp-content/uploads/2017/06/Cagliari-02.jpg">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://images.musement.com/cover/0001/09/italia-cagliari-veduta-mare_header-8090.jpeg?&q=60&fit=crop">Features</a>
+        <a class="nav-link" href="#">Features</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://www.saily.it/sites/default/files/_poetto.jpg">Pricing</a>
+        <a class="nav-link" href="#">Pricing</a>
       </li>
       <li class="nav-item">
         <a class="nav-link disabled" href="#">Disabled</a>
