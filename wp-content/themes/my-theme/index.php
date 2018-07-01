@@ -28,7 +28,7 @@ get_header();?>
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-  
+</div>
   <div class="jumbotron">
   <h1 class="display-4"><?php bloginfo('name'); ?> </h1>
   <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
