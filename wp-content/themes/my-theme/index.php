@@ -1,12 +1,6 @@
 <?php 
 get_header();?>
-<div class="jumbotron">
-  <h1 class="display-4"><?php bloginfo('name'); ?> </h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-  <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-</div>
+
 
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -34,5 +28,13 @@ get_header();?>
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+  
+  <div class="jumbotron">
+  <h1 class="display-4"><?php bloginfo('name'); ?> </h1>
+  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <hr class="my-4">
+  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
 <?php 
 get_footer();?>
