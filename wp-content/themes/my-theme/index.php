@@ -38,7 +38,7 @@ get_header();?>
 </div>
 <div id='Blog'>
 </div>
-<div id= 'Chi siamo'>
+<div id= 'chisiamo'>
 </div>
 <div id='Contatti'>
 </div>
