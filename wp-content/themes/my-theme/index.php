@@ -44,7 +44,8 @@ get_header();?>
     <p>  testo Chi Siamo   </p>
 </div>
 <div id='Contatti'>
-    <p>  testo Contatti   </p>
+    <p>   Contatti: e-mail      xxxxx@xxx.com
+                    telefono    070xxxxxx </p>
 </div>
 <?php 
 get_footer();?>
