@@ -37,10 +37,14 @@ get_header();?>
   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 </div>
 <div id='Blog'>
+  <p>  testo blog    </p>
+  
 </div>
 <div id= 'chisiamo'>
+    <p>  testo Chi Siamo   </p>
 </div>
 <div id='Contatti'>
+    <p>  testo Contatti   </p>
 </div>
 <?php 
 get_footer();?>
