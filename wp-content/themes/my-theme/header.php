@@ -21,13 +21,13 @@
         <a class="nav-link" href="http://wpsaba2.herokuapp.com/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://wpsaba2.herokuapp.com/blog/">Blog</a>
+        <a class="nav-link"#Blog">Blog</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://wpsaba2.herokuapp.com/chi-siamo/">Chi siamo</a>
+        <a class="nav-link" href="#chisiamo">Chi siamo</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://wpsaba2.herokuapp.com/contatti/">Contatti</a>
+        <a class="nav-link" href="#Contatti">Contatti</a>
       </li>
     </ul>
   </div>
