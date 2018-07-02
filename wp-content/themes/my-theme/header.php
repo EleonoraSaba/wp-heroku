@@ -21,7 +21,7 @@
         <a class="nav-link" href="http://wpsaba2.herokuapp.com/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link"#Blog">Blog</a>
+        <a class="nav-link" href="#Blog">Blog</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#chisiamo">Chi siamo</a>
