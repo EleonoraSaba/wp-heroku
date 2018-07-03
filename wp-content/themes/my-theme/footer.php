@@ -4,34 +4,32 @@
     <div class="container">
       <div class="row">
         <div class="p-4 col-md-3">
-          <h2 class="mb-4 text-secondary">Pingendo</h2>
+          <h2 class="mb-4 text-secondary">Cagliari</h2>
           <p class="text-white">A company for whatever you may need, from website prototyping to publishing</p>
         </div>
         <div class="p-4 col-md-3">
           <h2 class="mb-4 text-secondary">Mapsite</h2>
           <ul class="list-unstyled">
-            <a href="#" class="text-white">Home</a>
+            <a href="http://wpsaba2.herokuapp.com/" class="text-white">Home</a>
             <br>
-            <a href="#" class="text-white">About us</a>
-            <br>
-            <a href="#" class="text-white">Our services</a>
-            <br>
-            <a href="#" class="text-white">Stories</a>
+            <a href="#chsiamo" class="text-white">Chi siamo</a>
+            <br>           
+            <a href="#Blog" class="text-white">Blog</a>
           </ul>
         </div>
         <div class="p-4 col-md-3">
           <h2 class="mb-4" id="Contatti">Contact</h2>
           <p>
-            <a href="tel:+246 - 542 550 5462" class="text-white">
-              <i class="fa d-inline mr-3 text-secondary fa-phone"></i>+246 - 542 550 5462</a>
+            <a href="tel:+070 - 000 000 0000" class="text-white">
+              <i class="fa d-inline mr-3 text-secondary fa-phone"></i>+070 - 000 000 0000</a>
           </p>
           <p>
-            <a href="mailto:info@pingendo.com" class="text-white">
-              <i class="fa d-inline mr-3 text-secondary fa-envelope-o"></i>info@pingendo.com</a>
+            <a href="mailto:info@xxxxx.com" class="text-white">
+              <i class="fa d-inline mr-3 text-secondary fa-envelope-o"></i>mailto:info@xxxxx.com</a>
           </p>
           <p>
-            <a href="https://goo.gl/maps/AUq7b9W7yYJ2" class="text-white" target="_blank">
-              <i class="fa d-inline mr-3 fa-map-marker text-secondary"></i>365 Park Street, NY</a>
+            <a href="https://goo.gl/maps/obpdzMKeMQF2" class="text-white" target="_blank">
+              <i class="fa d-inline mr-3 fa-map-marker text-secondary"></i>Via Università, xx, 09124 Cagliari CA</a>
           </p>
         </div>
         <div class="p-4 col-md-3">
@@ -46,7 +44,7 @@
       </div>
       <div class="row">
         <div class="col-md-12 mt-3">
-          <p class="text-center text-white" contenteditable="true" >© Copyright 2017 Pingendo - All rights reserved. </p>
+          <p class="text-center text-white" contenteditable="true" >© Copyright 2017 - All rights reserved. </p>
         </div>
       </div>
     </div>
