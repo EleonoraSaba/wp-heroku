@@ -44,7 +44,7 @@ get_header();?>
             irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
         <div class="col-md-5 align-self-center">
-          <img class="img-fluid d-block w-100 img-thumbnail" src="https://pingendo.github.io/templates/sections/assets/gallery_9.jpg"> </div>
+          <img class="img-fluid d-block w-100 img-thumbnail" src=".img/Bastione.PNG"> </div>
       </div>
       <div class="row">
         <div class="col-md-5">
