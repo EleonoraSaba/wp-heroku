@@ -12,7 +12,7 @@
           <ul class="list-unstyled">
             <a href="http://wpsaba2.herokuapp.com/" class="text-white">Home</a>
             <br>
-            <a href="#chsiamo" class="text-white">Chi siamo</a>
+            <a href="#chisiamo" class="text-white">Chi siamo</a>
             <br>           
             <a href="#Blog" class="text-white">Blog</a>
           </ul>
