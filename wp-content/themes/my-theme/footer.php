@@ -5,7 +5,7 @@
       <div class="row">
         <div class="p-4 col-md-3">
           <h2 class="mb-4 text-secondary">Cagliari</h2>
-          <p class="text-white">A company for whatever you may need, from website prototyping to publishing</p>
+          <p class="text-white">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
         </div>
         <div class="p-4 col-md-3">
           <h2 class="mb-4 text-secondary">Mapsite</h2>
