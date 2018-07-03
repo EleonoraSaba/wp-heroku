@@ -20,7 +20,7 @@
           </ul>
         </div>
         <div class="p-4 col-md-3">
-          <h2 class="mb-4">Contact</h2>
+          <h2 class="mb-4" id="Contatti">Contact</h2>
           <p>
             <a href="tel:+246 - 542 550 5462" class="text-white">
               <i class="fa d-inline mr-3 text-secondary fa-phone"></i>+246 - 542 550 5462</a>
