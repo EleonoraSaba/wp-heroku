@@ -29,7 +29,7 @@
           </p>
           <p>
             <a href="https://goo.gl/maps/obpdzMKeMQF2" class="text-white" target="_blank">
-              <i class="fa d-inline mr-3 fa-map-marker text-secondary"></i>Via Università, xx, 09124 Cagliari CA</a>
+              <i class="fa d-inline mr-3 fa-map-marker text-secondary"></i>Via Università, xx, 09124<br> Cagliari CA</a>
           </p>
         </div>
         <div class="p-4 col-md-3">
